@@ -1,0 +1,4 @@
+Ivanov: 15000
+Petrov: 20000
+Sidorov: 27000
+Putin: 199900
